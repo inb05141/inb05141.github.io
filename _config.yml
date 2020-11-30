@@ -20,7 +20,7 @@ title                    : "Hongseok's Canvas"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hongseok Kim"
-description              : "Connecting the Dots with the Lines of Genuine Insigh"
+description              : "Connecting the Dots with the Lines of Genuine Insight"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hongseok Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Connecting the Dots with the Line of Genuine Insignt."
+  location         : "Austin, Texas"
+  email            : "inb05141@utexas.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
